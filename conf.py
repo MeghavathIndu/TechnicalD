@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ABC'
-copyright = '2021, Harideep'
-author = 'Harideep'
+project = 'class.md'
+copyright = '2021,indu'
+author = 'indu'
 
 # The full version, including alpha/beta/rc tags
 release = '2021'
